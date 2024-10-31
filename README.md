@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dfdfdf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dfdfdf&size=30&center=true&vCenter=true&width=1000&lines=Olá+👋+Sou+o+Tiago+Soares;Tenho+22+anos+de+idade;Sou+do+Brasil;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tiago200086&bg_color=0d1117&color=a0a0a0&line=dfdfdf&point=6c6c6c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
@@ -11,7 +9,6 @@
 
 <div align="center"> 
   <a href="https://instagram.com/soares_.tiago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23aab0fe?style=for-the-badge&logo=instagram&logoColor=black"</a>
-  <a href = "mailto:cmp.1a.tiago2806soares@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
